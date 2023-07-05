@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #93c5fd;
+}
+.capital-card-container {
+  padding: 30px;
+}
+.question-container {
+  display: flex;
+  flex-direction: row;
+}
